@@ -1,0 +1,37 @@
+📊 RELATÓRIO AUTOMÁTICO DE DESEMPENHO
+🕒 Gerado em: 29/04/2025 08:19:53
+🧾 Fonte: escola_baguncada_corrigida.xlsx
+
+🔍 ANÁLISE DOS DADOS:
+
+📌 Coluna: Aluno
+   - Valores únicos: 5
+   - Valor mais comum: João
+   💡 Estratégia: Considerar avaliar a diversidade dessa coluna. Caso a maioria dos valores seja repetitiva, explore alternativas para segmentar mais os dados.
+
+📌 Coluna: Nota 1
+   - Média: 7.75
+   - Valor mínimo: 6.5
+   - Valor máximo: 9.0
+   👍 Desempenho estável. Considere identificar pontos específicos para otimização e investir em áreas de maior impacto.
+
+📌 Coluna: Nota 2
+   - Média: 8.12
+   - Valor mínimo: 7.0
+   - Valor máximo: 9.0
+   👍 Desempenho estável. Considere identificar pontos específicos para otimização e investir em áreas de maior impacto.
+
+📌 Coluna: Frequência
+   - Média: 83.25
+   - Valor mínimo: 75.0
+   - Valor máximo: 90.0
+   ✅ Excelente desempenho médio em Frequência! Continue aplicando as estratégias que estão dando certo.
+
+📈 CONCLUSÃO E ESTRATÉGIAS:
+O sistema identificou padrões e gerou insights com base nos dados fornecidos. A análise permite projetar novas ações para maximizar os resultados.
+💡 Recomenda-se revisar os pontos fracos e investir nos pontos fortes.
+
+🔮 PREVISÕES PARA O FUTURO:
+   - Se a tendência atual continuar, espera-se um aumento de X% nas métricas da próxima semana.
+   - Se as estratégias forem implementadas corretamente, é possível ver uma melhoria de Y% em um mês.
+📈 Use as recomendações de estratégias para melhorar os pontos críticos identificados.

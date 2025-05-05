@@ -1,0 +1,7 @@
+Relatório de Correções
+=========================
+- Preenchido 1 células vazias na coluna Aluno.
+- Preenchido 1 células vazias na coluna Nota 1.
+- Preenchido 1 células vazias na coluna Nota 2.
+- Preenchido 1 células vazias na coluna Frequência.
+- Planilha corrigida salva como C:\Users\mycha\OneDrive\Área de Trabalho\teste\Automação de planilha\escola_baguncada_corrigido.xlsx
